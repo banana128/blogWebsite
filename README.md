@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stablo - Astro Blog Template with MDX
 
 Stablo Astro is an Astro version of [Stablo - Next.js Blog Template](https://stablo-pro.web3templates.com/), #1 template for Next.js & Sanity CMS. This is an Astro version of the same template.
@@ -108,3 +109,7 @@ TailwindCSS is already configured in this repo, so you can start using them with
 Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+=======
+# blogWebsite
+This is my first personal blog website!
+>>>>>>> d989fcce4eb0fd92ee83e9dc9db35238fdd3b872
