@@ -42,4 +42,11 @@ export const categories: Props[] = [
     description:
       "Get insights and inspiration from the world of design, with articles covering graphic design, product design, interior design, and more.",
   },
+  {
+    title: "Record",
+    slug: "record",
+    color: "brown",
+    description:
+      "Get insights and inspiration from the world of design, with articles covering graphic design, product design, interior design, and more.",
+  },
 ];
