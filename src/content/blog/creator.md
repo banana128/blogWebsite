@@ -1,9 +1,9 @@
 ---
 title: "Cocos Creator Study"
-excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
+excerpt: "cocos creator study"
 publishDate: "2024-07-30T12:19:36.050Z"
 image: "../../assets/blog/creator/image-20240723105724344.png"
-category: "lifestyle"
+category: "record"
 author: "mario-sanchez"
 tags: [design, architecture, interior]
 ---
