@@ -15,7 +15,7 @@ tags: [design, architecture, interior]
 
 官方文档链接：[Hello World | Cocos Creator](https://docs.cocos.com/creator/2.4/manual/zh/getting-started/hello-world.html)
 
-百度百科：[Cocos Creator_百度百科 (baidu.com)](https://baike.baidu.com/item/Cocos Creator/60664040?fr=ge_ala)
+百度百科：[Cocos Creator_百度百科 (baidu.com)](https://baike.baidu.com/item/Cocos%20Creator/60664040?fr=ge_ala)
 
 Cocos Creator包括开发和调试、商业化 SDK 的集成、多平台发布、测试、上线这一整套工作流程，可多次的迭代重复。
 
