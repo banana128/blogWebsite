@@ -2,7 +2,7 @@
 title: "Cocos Creator Study"
 excerpt: "cocos creator study"
 publishDate: "2024-07-30T12:19:36.050Z"
-image: "../../assets/blog/creator/image-20240723105724344.png"
+image: "../../assets/blog/astro/blog1.png"
 category: "record"
 author: "mario-sanchez"
 tags: [design, architecture, interior]
