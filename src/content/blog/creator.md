@@ -2,7 +2,7 @@
 title: "Cocos Creator Study"
 excerpt: "cocos creator study"
 publishDate: "2024-07-30T12:19:36.050Z"
-image: "../../assets/blog/astro/blog1.png"
+image: "../../assets/blog/creator/image-20240723105724344.png"
 category: "record"
 author: "mario-sanchez"
 tags: [design, architecture, interior]
@@ -1161,16 +1161,3 @@ UI 界面只有静态页面内容是不够的，我们会遇到很多需要由�
 ## 总结：
 
 这里记录简单的结构和概括记录主要的编辑器和脚本知识，由于篇幅较长，后续还有进阶的部分放在下一个文章中记录。
-
-
-
-
-
-
-
-
-
-
-
-
-
